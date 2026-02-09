@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/241414421335271486
+creation_time: 1760706543738
+experiment_id: '241414421335271486'
+last_update_time: 1760706543738
+lifecycle_stage: active
+name: Telco Churn Prediction Basic

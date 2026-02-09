@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Education/Dicoding/Membangun Sistem Machine Learning/Membangun_model/mlruns/321121984736498252/f7c8c1c5b58d4ceeb0241f0eaed7571f/artifacts
+end_time: 1760707073711
+entry_point_name: ''
+experiment_id: '321121984736498252'
+lifecycle_stage: active
+run_id: f7c8c1c5b58d4ceeb0241f0eaed7571f
+run_name: logistic-regression-tuning
+run_uuid: f7c8c1c5b58d4ceeb0241f0eaed7571f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760707059930
+status: 3
+tags: []
+user_id: GAMING 3

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/241414421335271486/833e8dd450fb42278853ea33873d92bb/artifacts
+end_time: 1760706555168
+entry_point_name: ''
+experiment_id: '241414421335271486'
+lifecycle_stage: active
+run_id: 833e8dd450fb42278853ea33873d92bb
+run_name: telco-logistic-regression
+run_uuid: 833e8dd450fb42278853ea33873d92bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760706545922
+status: 3
+tags: []
+user_id: GAMING 3
